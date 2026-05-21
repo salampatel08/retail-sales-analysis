@@ -1,0 +1,21 @@
+OrderID,CustomerName,City,Product,Category,Price,Quantity,OrderDate,PaymentMethod
+1,Amit Sharma,Delhi,Laptop,Electronics,55000,1,2024-01-05,Card
+2,Rahul Verma,Mumbai,Phone,Electronics,20000,2,2024-01-06,Cash
+3,Sneha Gupta,Pune,Headphones,Electronics,1500,3,2024-01-07,UPI
+4,Ankit Jain,Delhi,Table,Furniture,7000,1,2024-01-08,Card
+5,Neha Singh,Bangalore,Chair,Furniture,3000,2,2024-01-09,UPI
+6,Rohit Kumar,Chennai,TV,Electronics,40000,1,2024-01-10,Cash
+7,Pooja Mehta,Delhi,Sofa,Furniture,25000,1,2024-01-11,Card
+8,Karan Patel,Ahmedabad,Phone,Electronics,18000,1,2024-01-12,UPI
+9,Simran Kaur,Amritsar,Laptop,Electronics,60000,1,2024-01-13,Card
+10,Vikas Yadav,Noida,Table,Furniture,6500,2,2024-01-14,Cash
+11,Aman Singh,Delhi,Chair,Furniture,3200,1,2024-01-15,UPI
+12,Ritu Kapoor,Mumbai,TV,Electronics,42000,1,2024-01-16,Card
+13,Deepak Sharma,Pune,Phone,Electronics,22000,1,2024-01-17,Cash
+14,Meena Joshi,Jaipur,Sofa,Furniture,27000,1,2024-01-18,UPI
+15,Sahil Khan,Delhi,Headphones,Electronics,2000,2,2024-01-19,Card
+16,Arjun Das,Kolkata,Laptop,Electronics,53000,1,2024-01-20,UPI
+17,Anjali Roy,Kolkata,Chair,Furniture,3500,2,2024-01-21,Cash
+18,Mohit Bansal,Delhi,Table,Furniture,7200,1,2024-01-22,Card
+19,Nisha Arora,Chandigarh,Phone,Electronics,21000,2,2024-01-23,UPI
+20,Harsh Gupta,Delhi,TV,Electronics,39000,1,2024-01-24,Cash
